@@ -1,1 +1,5 @@
 # brute-forcing
+Hydra Brute-Force Demo 
+The project provides a detailed, educational demonstration of how password brute-force attacks operate within a safe, controlled, and legally authorized environment. Its purpose is to help learners understand the mechanics of automated login testing without promoting or enabling any harmful activity.
+By using Hydra, a widely known and respected penetration-testing tool, the project showcases how authentication systems can be evaluated for weak or vulnerable credentials. Hydra sends multiple username-password combinations to a target login form, helping security students observe how the authentication process reacts to incorrect attempts, error messages, and login failures.
+This demonstration highlights why strong passwords, secure form validation, and proper defense mechanisms—such as rate-limiting, account lockout, CAPTCHA, and multi-factor authentication—are essential for protecting modern web applications. The goal is to build awareness, strengthen defensive thinking, and provide insights into how security professionals legally test and analyze login vulnerabilities during authorized assessments.
